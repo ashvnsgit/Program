@@ -8,6 +8,7 @@ public class ClassB  extends ClassA{
 		ClassA cal=new ClassA();
 		cal.add(23, 89);
 		cal.mult(5, 4);
+		cal.mult(7, 9);
 
 	}
 

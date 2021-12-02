@@ -6,6 +6,8 @@ public class Reverse {
 		// TODO Auto-generated method stub
 		
 		String name="I am Sharan 3593";
+		System.out.println("The orginal word is ");
+		System.out.println(name);
 		String original[]=name.split(" ");
 		String Original="";
 		
@@ -26,6 +28,7 @@ public class Reverse {
 			Original=name.charAt(i)+Original;
 			//Original=Original+name.charAt(i);
 		}
+		System.out.println("The Reverse of the sentence is ");
 		System.out.println(Original);
 
 	}
