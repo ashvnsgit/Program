@@ -32,7 +32,7 @@ public class charctercount {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		charctercount count=new charctercount();
-		count.stringcount("AshishASJDHJDDJ");
+		count.stringcount("ASHSGJGDHFGDVGVAGHFQTQFTYFDCQDYTFQDC4134");
 	}
 
 }
