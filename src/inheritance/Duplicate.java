@@ -10,6 +10,7 @@ public class Duplicate {
 		// TODO Auto-generated method stub
 		stringduplicate("AshishVermamethod");
 		stringduplicate("AshishVerma");
+		stringduplicate("AshishV");
 
 	}
 	
